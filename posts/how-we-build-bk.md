@@ -2,7 +2,7 @@
 title: "How we built the Since That Friday backend"
 date: "2025-03-20"
 author: "Sam"
-tag: "Tech"
+tag: "Story"
 excerpt: "A Node.js backend with a contact form, AI chatbot, and a GitHub-powered blog. Here's how we built it and why we made the choices we did."
 ---
 
