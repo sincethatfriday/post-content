@@ -7,7 +7,7 @@ read_time_minutes: 4
 authors:
   - Sam
   - Abi
-cover: "cover.jpg"
+cover: "cover.jpeg"
 video_url: ""
 video_title: ""
 ---
@@ -26,7 +26,7 @@ We didn't have a plan. We had a laptop, a shared Google Doc, and the kind of nai
 
 The first thing we did was pick a name. We wanted something that felt personal — not a made-up word, not an acronym, not something that sounds like every other agency. Since That Friday came from the most honest place we could find: the day it started.
 
-![Our first workspace — a desk, a laptop, and a dream](images/first-workspace.jpg "Where it all started. Nothing fancy, just honest work.")
+![Our first workspace — a desk, a laptop, and a dream](images/first-workspace.jpeg "Where it all started. Nothing fancy, just honest work.")
 
 ## What we learned early
 

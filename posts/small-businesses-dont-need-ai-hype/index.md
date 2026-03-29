@@ -6,7 +6,7 @@ published_at: "2026-03-08"
 read_time_minutes: 5
 authors:
   - Sam
-cover: "cover.jpg"
+cover: "cover.jpeg"
 video_url: "https://youtu.be/9HRO1Q93AoA?si=ty414xLjSc9UR9VT"
 video_title: "AI for small businesses — what actually works"
 ---
@@ -28,7 +28,7 @@ Here's what we've seen work for the businesses we've helped:
 
 None of these are fancy. All of them save hours every week.
 
-![A simple automation workflow diagram](images/automation-flow.jpg "A real automation we built — simple, effective, no AI hype needed.")
+![A simple automation workflow diagram](images/automation-flow.jpeg "A real automation we built — simple, effective, no AI hype needed.")
 
 ### Start with the pain, not the technology
 

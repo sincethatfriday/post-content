@@ -7,7 +7,7 @@ read_time_minutes: 6
 authors:
   - Sam
   - Abi
-cover: "cover.jpg"
+cover: "cover.jpeg"
 video_url: "https://youtu.be/c4Mgp3FWvt0?si=UMeIeCOcxtG4t_ka"
 video_title: "We made a video about this"
 ---
@@ -26,7 +26,7 @@ A brand is the full experience. It's the colours you choose and why. It's the wa
 
 It's consistency. It's intention. It's the reason two coffee shops can sell the same flat white, but one of them makes you feel something when you walk in.
 
-![A brand identity system laid out](images/brand-system.jpg "A brand system is more than just a logo — it's an entire language.")
+![A brand identity system laid out](images/brand-system.jpeg "A brand system is more than just a logo — it's an entire language.")
 
 ### The parts most people skip
 
@@ -43,7 +43,7 @@ Once those are clear, the logo almost designs itself. Because it finally has som
 
 Big companies can afford to be forgettable in small moments because they make up for it in volume. You can't. When someone visits your website for the first time, your brand has about three seconds to make them feel something real — or they're gone.
 
-![Colour palette and typography samples](images/colour-typography.jpg "Colour and type are the first things people feel before they read a word.")
+![Colour palette and typography samples](images/colour-typography.jpeg "Colour and type are the first things people feel before they read a word.")
 
 That feeling doesn't come from a logo. It comes from every element working together with **intention**. The font that feels just right. The colour that sits perfectly against the background. The spacing that gives your words room to breathe.
 
