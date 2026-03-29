@@ -10,8 +10,8 @@ authors:
   - Sam
   - Abi
 cover: "cover.jpg"
-video_url: ""
-video_title: ""
+video_url: "https://youtu.be/1r0eyM7suUg?si=AvnTA5-UUbE_M2LK"
+video_title: "ai-future"
 og_title: ""
 og_description: ""
 og_image: ""
