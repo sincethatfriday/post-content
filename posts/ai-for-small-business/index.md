@@ -1,7 +1,7 @@
 ---
 title: "Why Your Brand Isn't Just a Logo"
 excerpt: "A logo is a mark. A brand is how someone feels when they see it."
-tags:"branding"
+tags: "branding"
 published_at: "2026-03-15"
 read_time_minutes: 6
 authors:
