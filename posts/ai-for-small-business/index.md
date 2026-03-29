@@ -35,7 +35,7 @@ When we work on brand identity with a client, the logo usually comes last. We st
 
 Once those are clear, the logo almost designs itself. Because it finally has something to say.
 
-![Brand identity process](images/inline1.jpg)
+![Brand identity process](images/inline2.jpg)
 *A brand system is more than just a logo — it's an entire language.*
 
 ## Why this matters for small businesses
