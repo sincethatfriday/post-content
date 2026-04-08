@@ -12,102 +12,82 @@ video_url: ""
 video_title: ""
 ---
 
-## What is the halo effect?
+## First Impressions Do More Work Than You Think
 
-It's this: when people notice one good thing about something, they assume the rest is good too.
+You walk into a restaurant. The menu is well-designed. The space feels nice. The waiter is friendly. Before you've even tasted the food, you've already decided it's going to be good.
 
-That's it.
+That's the halo effect.
 
-If a brand looks polished, we trust the product. If a website feels smooth, we believe the business is reliable. If someone walks in and speaks well, we think they're competent — before they've proved anything.
+In simple terms — one positive thing about someone or something makes you assume everything else about them is also positive. One good trait casts a glow over everything else. That glow is the halo.
 
-One strong signal. And the brain fills in the rest generously.
-
-> One good impression spills over quietly — and most people never notice it happening.
-
-It works the other way too. One bad signal and suddenly everything feels off. That's called the horn effect. Same brain shortcut, opposite outcome.
-
-## You've already seen this play out
-
-Think about ordering from Zomato.
-
-Two restaurants. Same price, similar menu. But one has clean photos, a neat listing, decent presentation. The other looks like the owner uploaded one blurry picture in 2019 and left it there.
-
-You pick the first one. Not because you verified anything. Just because it *felt* right.
-
-That's the halo effect. No psychology degree needed to fall for it — we all do.
-
-Tata is a big example. They make cars, salt, software, hotels — completely different things. But decades of trust in one area creates a halo that stretches across everything else they touch. When Tata enters something new, people already want to give it a chance.
-
-Apple India is the obvious one. People don't compare specs before buying. They buy the feeling — the packaging, the store, the way everything looks considered. And that feeling carries over to every product they release. People queue up before they've seen the thing.
-
-These aren't accidents. These brands understand that perception is the product, at least at first.
-
-![How design and first impressions shape brand trust](images/halo-effect-branding.jpg "The halo effect in branding — perception before proof")
-
-## Why this matters so much in branding
-
-Most people think branding is about logos and colour palettes. It's not.
-
-Branding is about shaping what people assume about you — before they've bought anything, read anything, or talked to you.
-
-The halo effect means you don't have to be great at everything right away. You just need to get *one thing* genuinely right. That becomes the signal. Everything else gets a lift from it.
-
-A slow, cluttered website doesn't just feel dated. It makes people quietly question your pricing, your quality, your reliability — even if none of that is actually a problem. The first impression creates the story. Everything else just fits into it.
-
-Flip it around. A clean, considered website makes your offer feel credible before anyone reads a word. Good typography makes content feel more trustworthy. Consistent visuals make a new brand feel established, even if you launched last month.
-
-This is why we always say: branding isn't decoration. It's information. It's what tells people what kind of business you are before you open your mouth.
-
-## Why it happens — the short version
-
-The brain is always trying to save energy.
-
-We're constantly taking in more information than we can consciously process. So we find shortcuts. One strong, reliable signal — and we use it to fill in everything we don't know yet. Psychologists call this a cognitive heuristic. We call it being human.
-
-It happens fast. Impressions form in seconds. And once they're formed, they're surprisingly hard to undo.
-
-For brands, this means the judgment often happens before your pitch even starts.
-
-![First impressions form before a word is read](images/first-impression-trust.jpg "Users decide quickly — make the first thing they see count")
-
-## The mistake we see all the time
-
-Founders put everything into the product and leave the first impression as an afterthought.
-
-"The work speaks for itself," they say.
-
-But people don't experience effort. They experience what's in front of them.
-
-If the first thing someone sees looks rushed — a messy website, inconsistent branding, a proposal that looks like a Google Doc from 2015 — that feeling sticks. It doesn't matter how strong the actual work is underneath.
-
-The fix isn't to fake quality. It's to be intentional about what people encounter first.
-
-Pick the one touchpoint that matters most for your audience. The website, the packaging, the social presence, the proposal — whatever that entry point is. Make that one thing genuinely good. Not perfect everywhere. Just excellent where it counts first.
-
-The halo does the rest.
-
-## So what do you actually do with this?
-
-Start with what people see before they've decided anything.
-
-For most businesses, that's the website. Make it clean and fast. Use consistent fonts and colours. Write like a human — short sentences, plain words, no filler. These feel like small things. They're not. They're trust signals.
-
-Then look at what comes second. Emails, proposals, social posts, how you show up on a call. Every touchpoint either adds to the halo or quietly chips away at it.
-
-You don't need to fix everything at once. That's not realistic and honestly not necessary. Just fix the entry point. Make the first thing excellent — and everything else gets easier.
-
-## The takeaway
-
-People don't evaluate your business from scratch every time.
-
-They take one signal and build a story around it. That's just how perception works. The halo effect isn't going away.
-
-So the real question isn't whether your product is good.
-
-It's: **what's the first thing someone notices — and what does it make them assume?**
-
-Get that right. Everything else follows.
+It's a psychological shortcut. Our brains are lazy. We don't want to evaluate every single detail from scratch. So we use one strong signal and let it do the heavy lifting.
 
 ---
 
-*We're Sam and Abi — a couple running Since That Friday, a creative tech studio in Chennai. We help businesses grow online through design, branding, and systems that actually work.*
+## The Halo Effect in Psychology — Where It Comes From
+
+The term comes from psychologist Edward Thorndike. Back in 1920, he noticed that army officers rated their soldiers either high or low across almost every trait — not because the soldiers were actually great or bad at everything, but because one strong impression was bleeding into everything else.
+
+That's the halo effect meaning in its original form — one trait influences how we judge all other traits.
+
+It sounds simple. But it plays out everywhere. In hiring, in relationships, in shopping. And very much in branding.
+
+---
+
+## What This Looks Like in Real Life
+
+Think about Apple in India. When someone buys an iPhone, they don't just think "this is a good phone." They start assuming Apple's laptops must also be great. Their earbuds. Their watches. Even their customer service. The product halo spreads to the whole ecosystem.
+
+Or think about Tata. In India, the Tata name alone carries trust. When Tata Salt launched, people bought it partly because it was Tata. The group has built such a strong reputation over decades that it creates a halo over every new product they put out. New category, same trust.
+
+Zomato is another one. Their social media presence is funny, quick, human. And that personality makes people feel like the whole company is more trustworthy. Their delivery is still sometimes late — but the halo from their brand voice softens the frustration.
+
+> The product can be average. But if the brand feels right, people will give it the benefit of the doubt.
+
+That's how powerful this is.
+
+---
+
+## How the Halo Effect Shapes Branding and Design
+
+This is where it gets practical for founders and creators.
+
+Your website is often the first thing people see. If it looks clean and thoughtful, people assume your work is also clean and thoughtful. If it looks outdated or cluttered, they'll question your attention to detail — even if your actual product is excellent.
+
+Same with your logo, your packaging, your writing. These things create an impression fast. And that impression sticks.
+
+![Image placeholder: side-by-side comparison of a polished vs cluttered website design]
+
+Pricing works this way too. A higher price point often creates a halo of quality — people assume it must be worth more, even before they've tried it. That's not always fair. But it's how perception works.
+
+Your first touchpoint is doing more work than you realise. It's not just being seen — it's being believed.
+
+---
+
+## What This Means for Your Business
+
+If you're building a brand — even a small one — the halo effect is already working on you. The question is whether it's working for you or against you.
+
+A few things that create a strong halo:
+
+- A website that actually looks like you care
+- Consistent tone across every piece of communication
+- One thing done really well in public (a great case study, a sharp newsletter, even a well-designed deck)
+
+You don't need to be perfect everywhere. You need to be impressive somewhere. That impression will carry.
+
+And this works the reverse way too — a bad first experience creates a negative halo. One rude response, one broken page, one sloppy email. It doesn't just stay there. It colours everything else.
+
+![Image placeholder: visual showing how one impression radiates outward to shape perception of the whole brand]
+
+---
+
+## The Takeaway
+
+The halo effect isn't manipulation. It's just how people work. We make quick judgments. We use signals. We form opinions faster than we think we do.
+
+As a studio, we think about this a lot. Every design choice, every word we write, every project we share — it's building an impression. And that impression is doing quiet work even when we're not in the room.
+
+So the real question isn't "is my product good?" It's "what does my first impression say about me?"
+
+Get that right. The halo will follow.
