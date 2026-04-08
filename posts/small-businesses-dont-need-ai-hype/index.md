@@ -1,49 +1,102 @@
 ---
-title: "Small Businesses Don't Need AI Hype"
-excerpt: "They need tools that save time and feel like magic — not complexity."
-tag: tech
-published_at: "2026-03-08"
-read_time_minutes: 5
+title: "What is AEO (and Why Your Content Needs to Think Beyond Google)"
+excerpt: "SEO got you ranking on Google. But AEO is about getting your content picked when AI answers the question instead. Here's what that means and what to do about it."
+tag: growth
+published_at: "2026-04-22"
+read_time_minutes: 6
 authors:
   - Sam
-cover: "cover.jpeg"
-video_url: "https://youtu.be/9HRO1Q93AoA?si=ty414xLjSc9UR9VT"
-video_title: "AI for small businesses — what actually works"
+  - Abi
+cover: "cover.jpg"
+video_url: ""
+video_title: ""
 ---
 
-## The hype problem
+## Something Has Quietly Changed About How People Search
 
-Every week there's a new AI tool that promises to revolutionize your business. Most of them won't. Not because AI isn't powerful — it absolutely is — but because the way it's being sold to small businesses is completely wrong.
+Think about the last time you Googled something simple. Did you scroll through links? Or did you just read the answer at the top and move on?
 
-You don't need a custom large language model. You don't need a machine learning pipeline. You don't need to "leverage AI across your entire value chain." You need something that takes a repetitive task off your plate and does it well.
+That answer at the top — that's not from a website you visited. It's pulled, summarised, and served to you directly. No click needed.
 
-## What actually helps
+This is what's shifting. And it's why AEO matters now.
 
-Here's what we've seen work for the businesses we've helped:
+---
 
-- **A chatbot that answers FAQs** so you're not typing the same reply 40 times a day
-- **Automated follow-ups** that go out after someone fills a form, without you lifting a finger
-- **Smart scheduling** that handles back-and-forth booking without the email tennis
-- **Data dashboards** that tell you what's working in plain language, not spreadsheet chaos
+## So What is AEO?
 
-None of these are fancy. All of them save hours every week.
+AEO stands for Answer Engine Optimisation.
 
-![A simple automation workflow diagram](images/automation-flow.jpeg "A real automation we built — simple, effective, no AI hype needed.")
+SEO — search engine optimisation — is about getting your content to rank on Google. AEO is about getting your content to *be the answer* when AI tools and search engines respond to a question directly.
 
-### Start with the pain, not the technology
+Think of tools like Google's AI Overviews, ChatGPT, Perplexity, or even Siri and Alexa. These aren't showing you a list of links. They're reading content from across the web, pulling what seems most trustworthy and clear, and giving you one answer.
 
-The best AI implementation starts with one question: **what's eating your time?**
+AEO is about making sure your content is what gets picked.
 
-Not "what AI tool should I use?" Not "should I build a GPT?" Just — what do you keep doing manually that you wish happened on its own?
+---
 
-That's the starting point. Everything else follows.
+## AEO vs SEO — What's Actually Different?
 
-## The implementation trap
+SEO and AEO are not opposites. Good SEO still matters. But the goal is different.
 
-We've seen businesses spend months and thousands on AI projects that end up being too complex to maintain. The tool works in a demo but breaks in real life because nobody thought about edge cases, user experience, or what happens when the AI gets it wrong.
+With SEO, you're trying to win a ranking. With AEO, you're trying to win a direct answer. That changes how you write.
 
-Our approach is different. We build small, we test fast, and we only scale what actually works. If a simple automation solves the problem, we don't wrap it in AI just to say we did.
+SEO rewards content that's keyword-rich, well-linked, and authoritative on a topic broadly. AEO rewards content that's clear, specific, and structured to answer one question really well.
 
-## When to reach out
+Here's a simple way to think about it:
 
-If you have a task that's repetitive, time-consuming, and follows a pattern — there's probably a smarter way to handle it. That's where we come in. Not to sell you AI, but to figure out if it genuinely helps.
+- SEO asks: *Can Google find and rank this page?*
+- AEO asks: *Can an AI read this page and pull a clear, confident answer from it?*
+
+One is about visibility. The other is about being useful in a world where the search result itself is the destination.
+
+> The web used to be a library. Now it's more like asking a well-read friend. AEO is about being the friend they quote.
+
+---
+
+## Why This Matters Right Now
+
+People are changing how they look for information. Especially with AI assistants getting better fast — Perplexity in India is growing, ChatGPT is everywhere, and Google's own search is increasingly showing AI summaries above regular results.
+
+If someone asks "best branding studio in Chennai" or "what does a creative tech studio do" — and an AI answers that question — which content does it pull from?
+
+It pulls from whoever wrote the clearest, most direct, most trustworthy answer on that topic. Not always the biggest site. Not always the one with the most backlinks. The one that was easiest to understand and most directly answered the question.
+
+That's a real opportunity for smaller studios, indie founders, and creators who write well.
+
+![Image placeholder: side-by-side showing traditional search results vs AI overview answer format]
+
+---
+
+## How to Actually Optimise for AEO
+
+You don't need a completely different content strategy. You need to write with answers in mind.
+
+A few things that genuinely help:
+
+**Write clear questions as headings.** If someone might ask "what is AEO?" — make that your heading. AI tools scan headings to understand what a section answers.
+
+**Answer the question in the first two sentences of each section.** Don't build up to the point. State it, then explain it. AI summarisers reward directness.
+
+**Use simple, confident language.** Hedging and overexplaining gets skipped. Clear statements get picked up.
+
+**Structure your content.** Short paragraphs, logical flow, one idea per section. Walls of text don't get quoted.
+
+**Be specific.** Vague content doesn't get cited. "Branding matters a lot" tells an AI nothing. "A consistent visual identity increases brand recognition" is something it can work with.
+
+**Build trust signals.** Author names, publish dates, a real point of view — these help AI systems decide if your content is worth surfacing.
+
+![Image placeholder: example of a well-structured FAQ section that answers questions directly]
+
+---
+
+## The Honest Truth About AEO
+
+AEO isn't a magic hack. It's not a checklist you run through once. It's a shift in how you think about content.
+
+When we write for Since That Friday — these blogs, our case studies, even our project descriptions — we're thinking about both. Will a person find this useful? And will an AI be able to understand and quote it clearly?
+
+Those two things are usually the same answer. Write for humans first, write clearly, write with real knowledge. The AI will follow.
+
+SEO took years to figure out. AEO is still being figured out by everyone — including the tools themselves. Which means right now is actually a good time to start. The ones who write well and write consistently are going to have a real edge.
+
+The search bar is changing. Your content strategy probably should too.
