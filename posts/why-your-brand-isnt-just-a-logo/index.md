@@ -7,7 +7,7 @@ read_time_minutes: 6
 authors:
   - Sam
   - Abi
-cover: "cover.jpg"
+cover: "cover.png"
 video_url: ""
 video_title: ""
 ---
