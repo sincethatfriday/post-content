@@ -72,7 +72,7 @@ We are here to actually understand you. To carry your project like it is ours. T
 
 We keep our work intentionally small so that every person we work with gets our full presence. Not just our time, but our genuine attention and care.
 
-![compassion](images/compassion.jpg)
+![compassion](images/compassion.jpeg)
 
 ## We built ourselves first
 
