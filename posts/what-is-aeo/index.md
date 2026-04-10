@@ -60,7 +60,7 @@ It pulls from whoever wrote the clearest, most direct, most trustworthy answer o
 
 That's a real opportunity for smaller studios, indie founders, and creators who actually write well. The big sites with huge SEO teams don't automatically win in this new game. The ones who write clearly do.
 
-![Answer Engine Overview](images/aeo.jpeg "The same question. Two completely different answer experiences.")
+![Answer Engine Overview](images/aeo.jpg)
 
 ## How Do You Optimise Content for AEO?
 
